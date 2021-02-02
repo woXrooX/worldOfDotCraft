@@ -33,7 +33,7 @@ Add NPCs:
 	2.Shop (Can buy shop assistant will tell some stuff)
 	3.Boss (Small talk big action)
 Allow to lose / win: Done
-Make it for two players: Not
+Make it for two players: No
 Make world infinte: Done
 Add option to upgrade:
 	1.Boots of speed (gives ability to move N more fields)

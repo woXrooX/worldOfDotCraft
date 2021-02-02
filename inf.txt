@@ -1,0 +1,43 @@
+Name: WDC
+Classess:
+	Action
+	Boss
+	Conf
+	Game
+	Hero
+	Items(not connected)
+	Main
+	Objects
+	Shop
+	Tools
+	World
+
+Store infos about player: done
+Place player on the map: done
+Allow player to move on the board: done
+Add some elements on the map: done
+Add randomness: done
+Add 4 type of elements (I am not sure about the request): 
+	1.Health Rune
+	2.Gold Rune
+	3.Mana rune
+	4.Surprise box
+	5.Enemy
+	6.Shop
+		a)Boots of speed
+		b)Hammer
+	7.Boss's castle walls
+	8.Boss
+Add NPCs:
+	1.Enemy (can fight or run)
+	2.Shop (Can buy shop assistant will tell some stuff)
+	3.Boss (Small talk bigaction)
+Allow to lose / win: Done
+Make it for two players: Not
+Make world infinte: Done
+Add option to upgrade:
+	1.Boots of speed (gives ability to move N more fields)
+	2.Hammer (Can be used to destroy Boss's castle)
+Use hexagons instead of squares to build the map: Player can move 8 directions in my case
+Allow player to change a tile: Player can change map by destroying Boss's castle
+	

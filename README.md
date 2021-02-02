@@ -1,4 +1,3 @@
 # WDC
-World of Dot Craft
-First University java project.
+World of Dot Craft is a mini RPG project for University
 Requirements in worldOfDotCraft/req.pdf

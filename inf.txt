@@ -1,5 +1,5 @@
 Name: WDC
-Classess:
+Classes:
 	Action
 	Boss
 	Conf

@@ -31,7 +31,7 @@ Add 4 type of elements (I am not sure about the request):
 Add NPCs:
 	1.Enemy (can fight or run)
 	2.Shop (Can buy shop assistant will tell some stuff)
-	3.Boss (Small talk bigaction)
+	3.Boss (Small talk big action)
 Allow to lose / win: Done
 Make it for two players: Not
 Make world infinte: Done

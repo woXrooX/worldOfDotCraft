@@ -4,4 +4,4 @@ Requirements in worldOfDotCraft/req.pdf
 
 2021
 
-Do not build games. It is waste of time and helps others waste their time as well!
+Do not build games. It is waste of time and helps others to waste their time as well!
